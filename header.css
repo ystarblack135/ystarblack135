@@ -36,3 +36,6 @@ display: none;
 position: absolute;
 top: 100%;
 }
+.cabeçalho {
+background-color: var(--branco);
+}
